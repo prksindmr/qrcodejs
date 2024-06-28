@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Boundary Area Pengganti Blok IV</name>
+	<open>1</open>
+	<Placemark>
+		<name>Bondri blok4 sub 39 26 juni 2024</name>
+		<Style>
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ffff</color>
+			</PolyStyle>
+		</Style>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						103.6698839,-3.7928235,0 103.6700502,-3.7927926,0 103.670119,-3.7930207,0 103.6700599,-3.7931436,0 103.6700018,-3.7931474,0 103.6699518,-3.793611900000001,0 103.6698005,-3.7935802,0 103.669877,-3.7932901,0 103.6698848,-3.7928248,0 103.6698839,-3.7928235,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Bondri blok4 sub 21 26 juni 2024</name>
+		<Style>
+			<LineStyle>
+				<color>ffff6400</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffff6400</color>
+			</PolyStyle>
+		</Style>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						103.6700483,-3.7927967,0 103.6703226,-3.7927581,0 103.6703227,-3.7931994,0 103.6702503,-3.7933737,0 103.6700734,-3.7933504,0 103.6700326,-3.7934539,0 103.6700147,-3.7936211,0 103.6699529,-3.793612599999999,0 103.6700047,-3.793150799999999,0 103.6700569,-3.7931428,0 103.6701201,-3.7930114,0 103.6700449,-3.7927871,0 103.6700483,-3.7927967,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Bondri blok4 sub 2 26 juni 2024</name>
+		<Style>
+			<LineStyle>
+				<color>ff1010ee</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff1010ee</color>
+			</PolyStyle>
+		</Style>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						103.6700126,-3.7936266,0 103.6701032,-3.793646400000001,0 103.6701559,-3.793482,0 103.6701993,-3.7933612,0 103.6700715,-3.793349,0 103.6700307,-3.793455199999999,0 103.670009,-3.793627499999999,0 103.6700126,-3.7936266,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>Bondri blok 4 sub33 26 juni 2024</name>
+		<Style>
+			<LineStyle>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<tessellate>1</tessellate>
+					<coordinates>
+						103.6691229,-3.7930881,0 103.6691201,-3.7931507,0 103.6691435,-3.7933152,0 103.6692125,-3.7933737,0 103.6697986,-3.7935802,0 103.6698766,-3.7932783,0 103.6698873,-3.7928204,0 103.6695518,-3.7930223,0 103.6691239,-3.7930898,0 103.6691229,-3.7930881,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Folder>
+</kml>
